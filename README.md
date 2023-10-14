@@ -1,7 +1,7 @@
 <h1 align="center">📖 Stage 3 - Explorer 📖</h1>
 
 <p align="center">
-Criação de quatro projetos práticos web seguindo as intruções do design do figma. Esses projetos foram desenvolvidos no programa <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da RocketSeat.
+Criação de oito projetos práticos web seguindo as intruções do design do figma. Esses projetos foram desenvolvidos no programa <a href="https://www.rocketseat.com.br/explorer">Explorer</a> da RocketSeat.
 </p>
 
 <br>
