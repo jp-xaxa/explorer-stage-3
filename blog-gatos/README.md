@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site Blog do Gato é um projeto que tem como objetivo ensinar os fundamentos essenciais de HTML e CSS para criação de sites com grid e aplicar animações nos elementos da página. Além disso, concentramos nossos esforços em garantir que o código seja desenvolvido de maneira semanticamente correta e que a página tenha acessibilidade ideal.
 
+- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/explorer-stage-3/blog-gatos/)
+
 <h1 align="center">
   Funcionalidades
 </h1>
