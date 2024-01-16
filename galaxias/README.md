@@ -6,8 +6,7 @@ Criação de um site web seguindo as instruções do design do figma. Esse proje
 
 <p align="center">
   <a href="#🚀-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🔖-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#💻-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -34,9 +33,3 @@ O site Galáxias é um projeto que tem como objetivo ensinar os fundamentos esse
 </h1>
 
 - Template Grid
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/Wgnq4YS544Y2EiV8M55VpA/Galaxies-%E2%80%A2-Projeto-Explorer-(Community)?type=design&node-id=0-1&mode=design&t=gGzxqorW6kXePBu7-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-<img alt="Layout Figma" src="./assets/layout-figma.png" width="100%">
