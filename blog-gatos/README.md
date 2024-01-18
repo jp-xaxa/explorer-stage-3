@@ -35,3 +35,4 @@ O site Blog do Gato é um projeto que tem como objetivo ensinar os fundamentos e
 - Template Grid
 - Responsividade (MobFirst)
 - Animações CSS
+- Plugin Vlibras

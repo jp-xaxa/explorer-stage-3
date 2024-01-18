@@ -105,7 +105,7 @@ form {
   object-fit: cover;
 }
 
-/*Galeria de Fotos*/
+/*Photo gallery*/
 main .container {
   padding: 0 3.2rem 6.4rem;
 
@@ -189,8 +189,7 @@ footer a {
   padding: 1.6rem;
 }
 
-/*Animação*/
-/*Animação do cabeçalho e do rodapé*/
+/*Header and footer animation*/
 header {
   --startY: -100%;
   animation: move 0.5s;
