@@ -77,4 +77,4 @@ Criação de oito projetos práticos web seguindo as intruções do design do fi
       <td align="center"><a href="08"><img width="300px" src="./blog-gatos/assets/projeto-final.png" /></a></td>
     </tr>
   </tbody>
-</table></p>
+</table>
